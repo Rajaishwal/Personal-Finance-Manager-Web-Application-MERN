@@ -125,7 +125,7 @@ button{
 }
 
 /* Responsive styles */
-@media (max-width: 375px) {
+@media (max-width: 300px) {
   .container {
     padding: 20px;
     width: 95%;
